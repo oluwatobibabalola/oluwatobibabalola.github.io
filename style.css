@@ -1,0 +1,80 @@
+.first {
+    color: rgb(167, 164, 164) !important;
+    line-height:30px !important;
+    font-size: 15px !important;
+    font-weight: bolder;
+}
+span {
+    color: black;
+}
+ul {
+    list-style: none;
+}
+.header-box {
+    margin-top: 100px;
+    margin-bottom: 150px !important;
+    background-color:transparent !important;
+    line-height: 25px !important; 
+}
+p {
+    color: rgb(167, 164, 164) !important;
+}
+.base {
+    font-size: 30px !important;
+    /* font-weight: bolder !important; */
+}
+.navbar {
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none !important;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 2px;
+    width: 100%;
+    background-color: white !important;
+}
+.navbar-nav {
+    color: rgb(167, 164, 164) !important;
+    font-size: 15px;
+    font-weight: 100;
+}
+.navbar-brand {
+    color: black !important;
+    font-weight: bold !important;
+    margin-left: 30% !important;
+}
+.navbar-nav li a:hover {
+    color: black !important;
+}
+.second {
+    margin-top: 20px !important;
+    line-height: 30px !important;
+    margin-left: 4% !important;
+    text-align: justify !important;
+}
+.third {
+    margin-left: 11% !important;
+    margin-right: 8% !important;
+    /* max-width: 80% !important; */
+    text-align: justify !important;
+    margin-top: 100px !important;
+    line-height: 30px !important;
+}
+.h1 {
+    text-align: left !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+.fourth {
+    font-size: 30px !important;
+    font-weight: bold !important;
+}
+.fifth {
+    text-align: center !important;
+    margin-top: 120px !important;
+}
+a {
+    color: rgb(167, 164, 164) !important;
+}
